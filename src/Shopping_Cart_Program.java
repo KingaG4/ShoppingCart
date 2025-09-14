@@ -27,7 +27,7 @@ public class Shopping_Cart_Program {
             currency = "USD";
             rate = 3.75;
         }else if(currency.equals("4")){
-            currency = "MXN";
+            currency = "MXD";
             rate = 4.75;
         }else{
             System.out.println("Invalid choice, swithcing to defualt currency: 'PLN'");
